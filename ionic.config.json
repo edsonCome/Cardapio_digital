@@ -1,0 +1,7 @@
+{
+  "name": "RestoMarket-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
